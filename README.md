@@ -4,13 +4,13 @@
 
 **UML diagrams:**
 **_Activity Diagram_**
-![](./UML/Activity Diagram.png)
+![](./UML/Activity%20Diagram.png)
 **_Sequence Diagram_**
-![](./UML/Data Model Diagram.png)
+![](./UML/Sequence%20Diagram.png)
 **_State Diagram_**
-![](./UML/State Diagram.png)
+![](./UML/State%20Diagram.png)
 **_Classes (Data Model) Diagram_**
-![](./UML/Data Model Diagram.png)
+![](./UML/Data%20Model%20Diagram.png)
 
 **Libraries Used:**
 
