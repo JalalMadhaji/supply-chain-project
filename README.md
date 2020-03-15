@@ -29,8 +29,8 @@ I did not use IPFS.
 
 ## The deployed on the Ethereum RINKEBY test network output:
 
-- Transaction ID: [0xf633b2143c5f46e6e761b759fc2e2ee4682d60c0211f9ae28209c8a2764c5a8c](https://rinkeby.etherscan.io/address/0x00ac3daf37c908c884fe2cb25191eec1c76ec60a)
-- Contract address: [0x00AC3DAf37c908C884fE2cB25191eEc1C76EC60a](https://rinkeby.etherscan.io/tx/0xf633b2143c5f46e6e761b759fc2e2ee4682d60c0211f9ae28209c8a2764c5a8c)
+- Transaction ID: [0xf633b2143c5f46e6e761b759fc2e2ee4682d60c0211f9ae28209c8a2764c5a8c](https://rinkeby.etherscan.io/tx/0xf633b2143c5f46e6e761b759fc2e2ee4682d60c0211f9ae28209c8a2764c5a8c)
+- Contract address: [0x00AC3DAf37c908C884fE2cB25191eEc1C76EC60a](https://rinkeby.etherscan.io/address/0x00ac3daf37c908c884fe2cb25191eec1c76ec60a)
 
 ### The Full Output:
 
